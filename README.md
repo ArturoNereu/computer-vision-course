@@ -45,4 +45,4 @@ Join [the Hugging Face discord](https://discord.gg/hugging-face-8795489624644936
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=johko/computer-vision-course&type=Date)](https://star-history.com/#johko/computer-vision-course&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=johko/computer-vision-course&type=Date)](https://www.star-history.com/#johko/computer-vision-course&Date)
